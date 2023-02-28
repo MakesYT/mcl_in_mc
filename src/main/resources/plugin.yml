@@ -1,0 +1,9 @@
+name: MclMC
+version: '${project.version}'
+main: top.ncserver.mclmc.MclMC
+api-version: 1.15
+authors: [ MakesYT ]
+commands:
+  mcl:
+    description: 在mcl终端中执行命令
+    usage: /mcl
